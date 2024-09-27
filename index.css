@@ -1,1 +1,13 @@
+body, html {
+  overflow:hidden;
+  margin: 0;
+  height: 100%;
+}
+
+.sky {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+}
 
