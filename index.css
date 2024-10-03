@@ -18,4 +18,13 @@ body, html {
   height: 300px;
   background: white;
 }
-
+.snow::before {
+  content: "";
+  display: block;
+  position: absolute;
+}
+.snow::after {
+  content: "";
+  display: block;
+  position: absolute;
+}
