@@ -33,14 +33,16 @@ body, html {
   height: 300px;
   bottom: 0px;
   left: 0px;
-  width: 300px;
+  width: 600px;
   background: white;
+  border-radius: 0px 107% 0px 0px;
 }
 .slope2 {
   position: absolute;
   height: 300px;
   bottom: 0px;
   right: 0px;
-  width: 300px;
+  width: 900px;
   background: white;
+  border-radius: 131% 0px 0px 0px;
 }
