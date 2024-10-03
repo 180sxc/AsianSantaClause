@@ -28,3 +28,17 @@ body, html {
   display: block;
   position: absolute;
 }
+.slope1 {
+  position: absolute;
+  height: 300px;
+  bottom: 0px;
+  left: 0px;
+  width: 300px;
+}
+.slope2 {
+  position: absolute;
+  height: 300px;
+  bottom: 0px;
+  right: 0px;
+  width: 300px;
+}
