@@ -95,4 +95,9 @@ addEventListener("DOMContentLoaded", (event) => {
 
     masthead.appendChild(canvas);
   })();
+  window.onload = function (){
+    setTimeout(()=>{
+      document.getElementById("load").style.opacity = 0
+    },3000)
+  }
 });
